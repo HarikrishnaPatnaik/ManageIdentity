@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace ManageIdentity.Data
 {
+    // Implementing EntityFrameworkcore identitydbcontext to set identity.
     public class SignUpDbContext : IdentityDbContext<ApplicationUser>
     {
         public SignUpDbContext(DbContextOptions<SignUpDbContext> options) : base(options)
