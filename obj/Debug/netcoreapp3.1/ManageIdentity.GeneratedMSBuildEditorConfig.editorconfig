@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ManageIdentity
+build_property.ProjectDir = C:\GitRepository\WebApi\WebApiIdentity\ManageIdentity\ManageIdentity\
